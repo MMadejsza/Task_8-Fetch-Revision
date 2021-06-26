@@ -1,0 +1,79 @@
+.btn {
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.btn-primary {
+    background-color: #4CAF50;
+}
+
+.btn-secondary {
+    background-color: #f44336;
+}
+
+.btn-primary_download {
+    cursor: alias;
+}
+
+.btn-primary_upload {
+    cursor: cell;
+}
+
+.btn-secondary_delete {
+    cursor: not-allowed;
+}
+
+10:54 .btn {
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.btn-primary {
+    background-color: #4CAF50;
+}
+
+.btn-secondary {
+    background-color: #F44336;
+}
+
+.btn-primary_download {
+    cursor: alias;
+}
+
+.btn-primary_upload {
+    cursor: cell;
+}
+
+.btn-secondary_delete {
+    cursor: not-allowed;
+}
+
+.post{
+    /* border:1px solid black; */
+    background: linear-gradient(lightblue, white);
+    border-radius:8px;
+    box-shadow: 5px, 5px, 5px, grey;
+    padding-left:15px;
+    padding-top:5px;
+}
+
+.line{
+
+}
+.title{
+    font-weight:bold;
+}
+
+.body{
+
+}
